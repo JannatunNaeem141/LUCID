@@ -1,0 +1,414 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    /********** header section **********/
+    .header-section .width50 {
+        width: 50%;
+    }
+    .header-section .main-menu .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        margin: 0px;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff !important;
+        border-color: #fff !important;
+        background: #fff;
+        margin-left: 140px;
+    }
+    .header-section .main-menu .bg-light {
+        float: right;
+    }
+    .header-section .banner-section {
+        padding: 92px 0px;
+    }
+    .header-section .banner-section h5 {
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: 2px;
+    }
+    .header-section .banner-section h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .header-section .banner-section p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 65px;
+    }
+    .header-section .banner-section .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .header-section .banner-section .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** feature section **********/
+    .feature {
+        padding: 60px 0px 50px 0px;
+    }
+    .title h5 {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+    .title h2 {
+        font-size: 36px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    /********** about-beauty section **********/
+    .about-beauty {
+        padding: 60px 0px 25px 0px;
+    }
+    .about-beauty .title {
+        margin: 40px 0px 20px;
+    }
+    .about-beauty .content {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    /********** about-short section **********/
+    .about-short .short {
+        margin-top: 30px;
+    }
+    .about-short .content {
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 20px;
+    }
+    .about-short .mobile-2 img {
+        height: 362px;
+        width: 353px;
+    }
+    /********** testimonial section **********/
+    .testimonial {
+        padding: 60px 0px;
+    }
+    .testimonial .title {
+        padding-bottom: 25px;
+    }
+    .testimonial .owl-carousel .item h4 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    /********** eye-catcher section **********/
+    .eye-catcher h2 {
+        font-size: 26px;
+    }
+    .eye-catcher .inner-btn .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .eye-catcher .col-md-5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+    }
+    /********** price section **********/
+    .price-section .title {
+        padding-bottom: 25px;
+    }
+    .price-section .card {
+        margin-bottom: 30px;
+    }
+    /********** contact section **********/
+    .contact-us {
+        padding: 60px 0px 0px;
+    }
+    .contact-us .title {
+        padding-bottom: 25px;
+    }
+    .contact-us .info-box {
+        padding-bottom: 30px;
+    }
+    .contact-us .info-box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .main-form {
+        padding: 40px 24px 30px 24px;
+        margin-bottom: 0px;
+    }
+    .main-form .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** footer section **********/
+    .footer-section {
+        padding: 20px 0px;
+    }
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    /********** header section **********/
+    .header-section .width50 {
+        width: 50%;
+    }
+    .header-section .main-menu .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        margin: 0px;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff !important;
+        border-color: #fff !important;
+        background: #fff;
+        margin-left: 170px;
+    }
+    .header-section .main-menu .bg-light {
+        float: right;
+    }
+    .header-section .banner-section {
+        padding: 92px 0px;
+    }
+    .header-section .banner-section h5 {
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: 2px;
+    }
+    .header-section .banner-section h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .header-section .banner-section p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 65px;
+    }
+    .header-section .banner-section .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .header-section .banner-section .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** feature section **********/
+    .feature {
+        padding: 60px 0px 50px 0px;
+    }
+    .title h5 {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+    .title h2 {
+        font-size: 36px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    /********** about-beauty section **********/
+    .about-beauty {
+        padding: 60px 0px 25px 0px;
+    }
+    .about-beauty .title {
+        margin: 40px 0px 20px;
+    }
+    .about-beauty .content {
+        font-size: 15px;
+        line-height: 23px;
+        width: 85%;
+    }
+    /********** about-short section **********/
+    .about-short .short {
+        margin-top: 30px;
+    }
+    .about-short .content {
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 20px;
+        width: 95%;
+    }
+    .about-short .mobile-2 img {
+        height: 389px;
+        width: 412px;
+    }
+    /********** testimonial section **********/
+    .testimonial {
+        padding: 60px 0px;
+    }
+    .testimonial .title {
+        padding-bottom: 25px;
+    }
+    .testimonial .owl-carousel .item h4 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    /********** eye-catcher section **********/
+    .eye-catcher h2 {
+        font-size: 26px;
+    }
+    .eye-catcher .inner-btn .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .eye-catcher .col-md-5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+    }
+    /********** price section **********/
+    .price-section .title {
+        padding-bottom: 25px;
+    }
+    .price-section .card {
+        margin-bottom: 30px;
+    }
+    /********** contact section **********/
+    .contact-us {
+        padding: 60px 0px 0px;
+    }
+    .contact-us .title {
+        padding-bottom: 25px;
+    }
+    .contact-us .info-box {
+        padding-bottom: 30px;
+    }
+    .contact-us .info-box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .main-form {
+        padding: 40px 24px 30px 24px;
+        margin-bottom: 0px;
+    }
+    .main-form .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** footer section **********/
+    .footer-section {
+        padding: 20px 0px;
+    }
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    /********** header section **********/
+    .header-section .width50 {
+        width: 50%;
+    }
+    .header-section .main-menu .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+        margin: 0px;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff !important;
+        border-color: #fff !important;
+        background: #fff;
+        margin-left: 250px;
+    }
+    .header-section .main-menu .bg-light {
+        float: right;
+    }
+    .header-section .banner-section {
+        padding: 110px 0px;
+    }
+    .header-section .banner-section h5 {
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .header-section .banner-section h2 {
+        font-size: 40px;
+        line-height: 43px;
+    }
+    .header-section .banner-section p {
+        font-size: 14px;
+        line-height: 28px;
+        margin-bottom: 64px;
+    }
+    /********** feature section **********/
+    .feature .inner-feature {
+        padding: 20px 0px 0px 0px;
+    }
+    /********** about-short section **********/
+    .about-short .short {
+        margin-top: 50px;
+    }
+    .about-short .mobile-2 img {
+        height: 500px;
+        width: 367px;
+    }
+    .header-section .banner-section .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .header-section .banner-section .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** eye-catcher section **********/
+    .eye-catcher .col-md-5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .eye-catcher .inner-btn .btn-light {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+    /********** price section **********/
+    .price-section .card .card-body .price-inner {
+        padding: 20px 0px;
+    }
+    .price-section .card .price-text {
+        padding: 9px 3px;
+    }
+    .price-section .card .card-body .btn-primary {
+        margin-bottom: 24px;
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+    /********** contact section **********/
+    .main-form {
+        padding: 15px;
+        margin-bottom: -40px;
+    }
+    .main-form .btn-primary {
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+}
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    /********** about-short section **********/
+    .about-short .mobile-2 img {
+        height: 511px;
+        width: 460px;
+    }
+}
